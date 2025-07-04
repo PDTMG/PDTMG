@@ -28,11 +28,17 @@
 
 ---
 
-### 📌 Projects
+### 📌 Featured Projects
 
 #### 🛒 [**The Bugs Book E-Commerce**](https://github.com/icrRick/theBugs_book_ecommerce)
-> A vibrant marketplace where knowledge meets innovative code. Built with Java, Spring Boot, and React — and a lot of debugging love.
+> A vibrant marketplace where knowledge meets innovative code.  
+> Built with **Java**, **Spring Boot**, and **React** — and a lot of debugging love.
 
 ---
 
+#### 🖼️ [**PDT-Remove.bg**](https://github.com/PDTMG/PDT-Remove.bg)
+> A simple yet powerful tool to **automatically remove image backgrounds** using AI.  
+> No more Photoshop — just one command and you're done!  
+> Built with ❤️ for developers, designers, and meme creators.
 
+```
